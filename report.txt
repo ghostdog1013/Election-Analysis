@@ -1,0 +1,177 @@
+
+Q1
+The following candidates ran to represent Northfield in the House in 2018:
+Angie Craig
+Jason Lewis
+
+
+Q2
+The number of representatives from each state:
+Alabama 20
+Alaska 3
+Arizona 23
+Arkansas 14
+California 106
+Colorado 23
+Connecticut 21
+Delaware 2
+Florida 56
+Georgia 31
+Hawaii 7
+Idaho 10
+Illinois 45
+Indiana 22
+Iowa 21
+Kansas 10
+Kentucky 20
+Louisiana 28
+Maine 5
+Maryland 35
+Massachusetts 25
+Michigan 46
+Minnesota 26
+Mississippi 12
+Missouri 30
+Montana 3
+Nebraska 6
+Nevada 19
+New Hampshire 8
+New Jersey 49
+New Mexico 8
+New York 177
+North Carolina 32
+North Dakota 4
+Ohio 44
+Oklahoma 13
+Oregon 24
+Pennsylvania 37
+Rhode Island 6
+South Carolina 26
+South Dakota 4
+Tennessee 33
+Texas 109
+Utah 14
+Vermont 5
+Virginia 35
+Washington 20
+West Virginia 7
+Wisconsin 26
+Wyoming 5
+
+Q3
+The closest House race is Georgia District 7 with 419 votes 
+
+Q4
+The most lopsided House race is California District 12 with 467024 votes 
+
+Q5
+The following Houses are competitive:
+
+Alaska District 0
+Arizona District 1
+Arizona District 2
+Arkansas District 2
+California District 1
+California District 10
+California District 21
+California District 22
+California District 25
+California District 39
+California District 4
+California District 45
+California District 48
+California District 50
+Colorado District 3
+Florida District 12
+Florida District 13
+Florida District 15
+Florida District 16
+Florida District 18
+Florida District 26
+Florida District 27
+Florida District 3
+Florida District 6
+Florida District 7
+Florida District 9
+Georgia District 6
+Georgia District 7
+Illinois District 12
+Illinois District 13
+Illinois District 14
+Illinois District 6
+Indiana District 2
+Iowa District 1
+Iowa District 3
+Iowa District 4
+Kansas District 2
+Kansas District 3
+Kentucky District 6
+Maine District 2
+Michigan District 11
+Michigan District 6
+Michigan District 7
+Michigan District 8
+Minnesota District 1
+Minnesota District 2
+Minnesota District 7
+Minnesota District 8
+Missouri District 2
+Montana District 0
+Nebraska District 2
+Nevada District 3
+Nevada District 4
+New Hampshire District 1
+New Jersey District 2
+New Jersey District 3
+New Jersey District 7
+New Mexico District 2
+New York District 1
+New York District 11
+New York District 19
+New York District 2
+New York District 21
+New York District 22
+New York District 23
+New York District 24
+New York District 27
+North Carolina District 13
+North Carolina District 2
+North Carolina District 9
+Ohio District 1
+Ohio District 12
+Oklahoma District 5
+Pennsylvania District 1
+Pennsylvania District 10
+Pennsylvania District 16
+Pennsylvania District 8
+South Carolina District 1
+Texas District 10
+Texas District 2
+Texas District 21
+Texas District 22
+Texas District 23
+Texas District 24
+Texas District 25
+Texas District 31
+Texas District 32
+Texas District 6
+Texas District 7
+Utah District 4
+Virginia District 2
+Virginia District 5
+Virginia District 7
+Washington District 3
+Washington District 5
+Washington District 8
+
+ 
+ number of competitive houses: 96
+Q6
+The number of statewide candidates running in Minnesota in 2018 was 26.
+
+Q7
+The Minnesota election with the most write-in votes comes from Chief Justice - Supreme Court with 15340 votes.
+
+Q8
+The average total votes for contested statewide elections in Minnesota is 2320219.83
+The average total votes for uncontested statewide elections in Minnesota is 1601842.25
